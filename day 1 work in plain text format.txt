@@ -1,0 +1,78 @@
+1) Arithmetic flow chart.(eg 1 addition of 2 nos)
+ 
+
+ALGORITHM:
+STEPS
+1:Declare 3 variables, 2 for taking input and one to store the result.  
+2:Take 2 input and store the value in variable.
+3:Apply formula for addition and dstore the result in 3rd variable.
+4.Display result.
+5.End the process.
+
+
+2)Arithmetic flow chart (eg 2 multiply 2 nos)
+ 
+Algorithm for multiplication of 2 nos.
+STEPS:
+1)Declare 3 variables, 2 for the inpnt of numbers and one for storing result.
+2)Read 2 numbers.
+3)Perform multiplication operation and store the value in result.
+4)display the result.
+5)End process.
+
+3)Decision(eg 1 to find no is odd or even)
+Flow chart:
+ 
+Algorithm:
+Steps:
+1)Enter a number.
+2)perform modulo operation(n%2==0).
+3)Check for condition,
+4)if it satisfies condition  print even.
+5)Else, print odd.
+6)end loop.
+
+
+
+4)Decision:(find a no greater than 100 or not)
+ 
+Algorithm:
+Steps:
+1)Enter a number.
+2)Is the number satisfying the condition. 
+3)if yes,then print yes.
+4)Else print no.
+5)End
+
+
+5)Looping (eg.loop until value is 5 )
+Flowchart:
+ 
+Algorithm:
+Steps:
+1)Taken i=1.
+2)Start loop
+2)print i.
+3)increment i.(i.e)i=i+1
+4)if i<=5,go to step no.2
+5)Else , stop loop
+
+
+6)looping:(summ of first n nos)
+Flowchart:
+ 
+Algorithm:
+Steps:
+1)Declare 3 variables as n,i and sum of type number.
+2)Take vale of n from user.
+3)Start loop.
+4)for i in range perform sum operation 
+5)if yes,sum=sum+i ,go to step 4
+6)print no
+7)End
+
+ 
+
+ 
+
+    
